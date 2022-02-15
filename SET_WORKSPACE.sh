@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "export WORKSPACE=~/ws" >> ~/.bashrc
+echo "export WORKSPACE=/root/ws" >> ~/.bashrc
+source ~/.bashrc
